@@ -34,6 +34,7 @@ public class Main {
                 }else {
                     System.out.println("Bölme Sonucu: " + (n1 / n2));
                 }break;
+
                 //Yanlış Seçim Yapıldığında Karşılanacak Uyarı
             default:
                 System.out.println("Hatalı Bir Seçim Gerçekleştirdiniz!");
